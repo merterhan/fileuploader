@@ -6,7 +6,7 @@
   },
   "dependencies": {
     "dm-file-uploader": "1.0.2",
-    "jquery": "3.0.0",
+    "jquery": "3.5.0",
     "bootstrap": "4.3.1"
   }
 }
